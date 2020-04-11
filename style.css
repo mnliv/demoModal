@@ -1,0 +1,24 @@
+body {
+	background: url(./back.jpg) no-repeat center center fixed;
+	background-size: center;
+}
+
+.title{
+	color: #EEE;
+	margin-top: 0.8rem;
+}
+
+#img_logo {
+	max-width: 150px;
+	max-height: 150px;
+	margin: 0 auto;
+}
+
+.modal {
+	width: 50%;
+	left: 25%;
+}
+
+.modal-footer {
+	justify-content: center;
+}
